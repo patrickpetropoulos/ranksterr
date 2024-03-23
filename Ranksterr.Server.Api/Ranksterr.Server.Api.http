@@ -1,0 +1,6 @@
+@Ranksterr.Server.Api_HostAddress = http://localhost:5290
+
+GET {{Ranksterr.Server.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
