@@ -1,4 +1,4 @@
-﻿namespace Ranksterr.Domain.Item;
+﻿namespace Ranksterr.Domain.Items;
 
 public interface IItemRepository
 {

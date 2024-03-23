@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Ranksterr.Application.Abstractions.Clock;
 using Ranksterr.Application.Abstractions.Data;
 using Ranksterr.Domain.Abstractions;
-using Ranksterr.Domain.Item;
+using Ranksterr.Domain.Items;
 using Ranksterr.Infrastructure.Clock;
 using Ranksterr.Infrastructure.Data;
 using Ranksterr.Infrastructure.Repositories;

@@ -1,4 +1,4 @@
-﻿using Ranksterr.Domain.Item;
+﻿using Ranksterr.Domain.Items;
 
 namespace Ranksterr.Infrastructure.Repositories;
 

@@ -33,12 +33,11 @@ var summaries = new[]
 
 app.MapGet("/weatherforecast", async (ISender sender) =>
     {
-        var query = new GetItemQuery(new Guid());
+        var query = new GetItemQuery( Guid.Parse("f28c0109-2a99-42f8-a27c-7bbf4036ad0f"));
 
         var result = await sender.Send(query, new CancellationToken());
 
         var temp = result;
-        
         
         var forecast = Enumerable.Range(1, 5).Select(index =>
                 new WeatherForecast

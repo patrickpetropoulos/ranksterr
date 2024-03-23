@@ -1,10 +1,10 @@
 ﻿using Ranksterr.Domain.Abstractions;
 
-namespace Ranksterr.Domain.Item;
+namespace Ranksterr.Domain.Items;
 
 public class Item : Entity
 {
     public Guid Id { get; set; }
-    public string Name { get; set; }
-    
+    public ItemName Name { get; set; }
+    public ItemDescription Description { get; set; }
 }

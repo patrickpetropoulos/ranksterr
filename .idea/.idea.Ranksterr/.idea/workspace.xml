@@ -14,43 +14,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9deb472f-01a3-46cf-8cbe-a47467d3bef4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/AppShell.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/AppShell.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/MainPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/MainPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/MauiProgram.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/Android/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/Android/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/Android/MainApplication.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/Android/Resources/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/MacCatalyst/AppDelegate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/MacCatalyst/Entitlements.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/MacCatalyst/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/MacCatalyst/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/Tizen/Main.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/Tizen/tizen-manifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/Windows/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/Windows/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/Windows/Package.appxmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/Windows/app.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/iOS/AppDelegate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/iOS/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Platforms/iOS/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Ranksterr.Mobile.App.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Ranksterr.Mobile.App.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Resources/AppIcon/appicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Resources/AppIcon/appiconfg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Resources/Fonts/OpenSans-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Resources/Fonts/OpenSans-Semibold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Resources/Images/dotnet_bot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Resources/Raw/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Resources/Splash/splash.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Resources/Styles/Colors.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/Resources/Styles/Styles.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ranksterr.Mobile.App/sudoku.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ranksterr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ranksterr/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranksterr.Application/Items/GetItem/GetItemQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ranksterr.Application/Items/GetItem/GetItemQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranksterr.Application/Items/GetItem/GetItemQueryHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ranksterr.Application/Items/GetItem/GetItemQueryHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranksterr.Application/Ranksterr.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Ranksterr.Application/Ranksterr.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranksterr.Domain/Items/IItemRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ranksterr.Domain/Items/IItemRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranksterr.Domain/Items/Item.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ranksterr.Domain/Items/Item.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranksterr.Infrastructure/Configurations/ItemConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ranksterr.Infrastructure/Configurations/ItemConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranksterr.Infrastructure/DependencyInjection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ranksterr.Infrastructure/DependencyInjection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranksterr.Infrastructure/Repositories/ItemRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ranksterr.Infrastructure/Repositories/ItemRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranksterr.Server.Api/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ranksterr.Server.Api/Migrations/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ranksterr.Server.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ranksterr.Server.Api/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +79,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Xamarin.Android.Ranksterr.Mobile">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Ranksterr.Server.Api: http">
     <configuration name="Ranksterr.Server.Api: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Ranksterr.Server.Api/Ranksterr.Server.Api.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
@@ -192,7 +166,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711195375175</updated>
-      <workItem from="1711195379071" duration="8141000" />
+      <workItem from="1711195379071" duration="13183000" />
     </task>
     <servers />
   </component>
@@ -210,13 +184,52 @@
           <line>39</line>
           <properties documentPath="C:\Repositories\ranksterr\Ranksterr.Server.Api\Program.cs" initialLine="32" containingFunctionPresentation="">
             <startOffsets>
-              <option value="1047" />
+              <option value="1088" />
             </startOffsets>
             <endOffsets>
-              <option value="1065" />
+              <option value="1106" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Ranksterr.Server.Api/Program.cs</url>
+          <line>35</line>
+          <properties documentPath="C:\Repositories\ranksterr\Ranksterr.Server.Api\Program.cs" initialLine="35" containingFunctionPresentation="">
+            <startOffsets>
+              <option value="923" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1005" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Ranksterr.Application/Items/GetItem/GetItemQueryHandler.cs</url>
+          <line>34</line>
+          <properties documentPath="C:\Repositories\ranksterr\Ranksterr.Application\Items\GetItem\GetItemQueryHandler.cs" initialLine="31" containingFunctionPresentation="Method 'Handle'">
+            <startOffsets>
+              <option value="1293" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1454" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Ranksterr.Application/Items/GetItem/GetItemQueryHandler.cs</url>
+          <line>24</line>
+          <properties documentPath="C:\Repositories\ranksterr\Ranksterr.Application\Items\GetItem\GetItemQueryHandler.cs" initialLine="24" containingFunctionPresentation="Method 'Handle'">
+            <startOffsets>
+              <option value="929" />
+            </startOffsets>
+            <endOffsets>
+              <option value="993" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
